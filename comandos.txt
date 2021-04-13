@@ -9,3 +9,6 @@ git commit --amend => Abre un editor VIM
     :i => Editar
     ESC => Salir del modo
     :wq => guardar y salir
+
+git tag nombretag -m "mensaje" => Añade una etiqueta
+git push --tags => Subit tags
