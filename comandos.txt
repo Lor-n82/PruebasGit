@@ -2,3 +2,5 @@ git init => Iniciar seguimiento
 git status => Ver estado
 git add => Añade al area de Staging
 git commit -m "mensaje" => Añade al repositorio local
+git log --online => muestra el log
+git reset --hard CodigoCommit => Volver al commit deseado
